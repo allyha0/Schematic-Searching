@@ -28,7 +28,12 @@ This approach helps identify related requirements, risks, mitigations, and safet
 ## Technology Stack
 - Python
 - Pandas
-- NumPy
+- Numpy
+- Scikit-Learn
+- Sentence Transformers
 - OpenPyXL
 
 ## Useage of AI 
+Throughout this project I kept in mind that it was for me to learn the foundation of schematic searching, thus throughout I've utlized AI for support on basic Python scripts and support in learning by asking questions and support for bug fixing. For example, unknowingly using newest version of Python which does not support sentence-transformers needed for a program that is embedding sentences without a downloaded model. 
+
+NOTE: Throughout this process I will keep track on what I used AI for and also what AI was not helpful with.
