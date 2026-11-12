@@ -37,3 +37,10 @@ This approach helps identify related requirements, risks, mitigations, and safet
 Throughout this project I kept in mind that it was for me to learn the foundation of schematic searching, thus throughout I've utlized AI for support on basic Python scripts and support in learning by asking questions and support for bug fixing. For example, unknowingly using newest version of Python which does not support sentence-transformers needed for a program that is embedding sentences without a downloaded model. 
 
 NOTE: Throughout this process I will keep track on what I used AI for and also what AI was not helpful with.
+
+## Resources
+In this list I added some resources that supported my learning and understanding the different concepts. 
+1. BM25 Methods: https://4d9506f4.isolation.zscaler.com/profile/66efb910-9c57-401a-bef6-d39c8ae10b8d/zia-session/?controls_id=f4fc2f0c-82bc-4a39-a7a7-b01e9efb1b8b&tenant=9240298949af&region=was&user=656f920f9d17163e882b294f62c8a3f7bb1f5e42060153a72fbc8eed626cf3f5&original_url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-030-45442-5_4&key=sh-1&hmac=6c797191676e2658f5f0b30a2be0324216c80a2bf84d14d81c72493c6a47a355
+2. RRF (Reciporcal Rank Fusions): https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking
+3. 
+
